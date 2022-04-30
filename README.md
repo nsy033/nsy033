@@ -7,7 +7,8 @@
   <br>
   <br>EDU | B.S. at KAIST
   <br>MAJOR |  School of Computing, Industrial Design 
-  <br>CONTACT | nsy033@kaist.ac.kr<br>
+  <br>CONTACT | nsy033@kaist.ac.kr
+  <br>CV | https://github.com/nsy033/CV <br>
 </p>
 <br>
 
