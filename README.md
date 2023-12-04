@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FEC36E&height=140&section=header&text=Seungyeon%20Choi&fontSize=60&animation=fadeIn&fontAlignY=48&desc=BS%20%20student%20majoring%20in%20CS%20ID&descAlignY=71&descAlign=62&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&color=FEC36E&height=140&section=desc&text=Hi%20I'm%20Seungyeon%20Choi&fontSize=65&animation=fadeIn&fontAlignY=52&fontColor=FFFFFF&stroke=FEB511&strokeWidth=1)
 
 <br>
 
@@ -8,7 +8,6 @@
   <br>EDU | B.S. at KAIST
   <br>MAJOR |  School of Computing, Industrial Design 
   <br>CONTACT | nsy033@kaist.ac.kr
-  <br>CV | https://github.com/nsy033/CV <br>
 </p>
 <br>
 
